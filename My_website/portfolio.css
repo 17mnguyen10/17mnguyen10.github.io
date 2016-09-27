@@ -1,0 +1,40 @@
+body{
+    font-family: fantasy;
+    background-color:#668aff;
+    
+}
+
+#main{
+    font-family : sans-serif;
+	list-style-type: none;
+	padding: 0;
+	overflow: hidden;
+	background-color: #ffdb66;
+}
+
+#sub{
+	float: left;
+	border-right: 5px solid black;
+}
+
+#sub a{
+	display:block ;
+	color: darkblue;
+	text-align: center;
+	padding: 15px 75px;
+	text-decoration:none ;
+}
+
+#sub a:link {
+	color: black;
+	text-align: center;
+	display: block;
+}
+
+#sub a:hover {
+	background-color: #dab9ff;
+}
+
+#sub a:active {
+	background-color:#ff8f66 ;
+}
