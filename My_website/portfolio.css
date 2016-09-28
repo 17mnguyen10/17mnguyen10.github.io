@@ -1,6 +1,6 @@
 body{
     font-family: fantasy;
-    background-color:#668aff;
+    background-color:#ADD8E6;
     
 }
 
@@ -10,6 +10,7 @@ body{
 	padding: 0;
 	overflow: hidden;
 	background-color: #ffdb66;
+	border: 5px black solid;
 }
 
 #sub{
@@ -19,9 +20,9 @@ body{
 
 #sub a{
 	display:block ;
-	color: darkblue;
+	color: blue;
 	text-align: center;
-	padding: 15px 75px;
+	padding: 7px 60px;
 	text-decoration:none ;
 }
 

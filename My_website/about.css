@@ -1,9 +1,8 @@
 body{
-    font-family: fantasy;
-    background-color:#668aff;
+    font-family: sans-serif;
+    background-color:#ADD8E6;
     
 }
-
 
 table, td, th, tr{
     border: 1px solid darkblue;
@@ -30,16 +29,14 @@ table, td, th, tr{
 
 #sub a{
 	display:block ;
-	color: darkblue;
+	color: blue;
 	text-align: center;
-	padding: 15px 75px;
+	padding: 10px 65px;
 	text-decoration:none ;
 }
 
 #sub a:link {
-	color: black;
-	text-align: center;
-	display: block;
+	color: none;
 }
 
 #sub a:hover {
@@ -48,6 +45,10 @@ table, td, th, tr{
 
 #sub a:active {
 	background-color:#ff8f66 ;
+}
+
+.intro{
+	padding: 5px 6px 15px 16px;
 }
 
 
