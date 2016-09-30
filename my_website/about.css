@@ -28,11 +28,13 @@ table, td, th, tr{
 	margin: auto;
 	position: relative;
 	left: 560px;
+	
 }
 
 #title{
 	background-image: url("images/colorful.jpg"); 
 	background-size: 290px 600px;
+	width: 130px;
 }
 
 
