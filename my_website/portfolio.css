@@ -1,6 +1,6 @@
 body{
-    font-family: fantasy;
-    background-color:#ADD8E6;
+    font-family: sans-serif;
+    background-image: url("images/cool-background.jpg");
     
 }
 
@@ -10,7 +10,6 @@ body{
 	padding: 0;
 	overflow: hidden;
 	background-color: #ffdb66;
-	border: 5px black solid;
 }
 
 #sub{
@@ -22,14 +21,12 @@ body{
 	display:block ;
 	color: blue;
 	text-align: center;
-	padding: 7px 60px;
+	padding: 10px 65px;
 	text-decoration:none ;
 }
 
 #sub a:link {
-	color: black;
-	text-align: center;
-	display: block;
+	color: none;
 }
 
 #sub a:hover {

@@ -1,0 +1,91 @@
+body{
+    font-family: sans-serif;
+    background-image: url("images/cool-background.jpg");
+    
+}
+
+table, td, th, tr{
+    border: 1px solid darkblue;
+    background-color: #ffdc66;
+    margin:auto;
+}
+
+.hobbies{
+	background-image: url("images/yellow1.jpg"); 
+	background-size: 290px 600px;
+	margin: auto;
+	width: 230px;
+}
+
+.music{
+	background-image: url("images/yellow2.jpg"); 
+	background-size: 290px 600px;
+	margin: auto;
+	width: 230px;
+}
+
+.quote{
+	margin: auto;
+	position: relative;
+	left: 560px;
+}
+
+#title{
+	background-image: url("images/colorful.jpg"); 
+	background-size: 290px 600px;
+}
+
+
+#avatar{
+    border: 3px dashed black;
+}
+
+#main{
+    font-family : sans-serif;
+	list-style-type: none;
+	padding: 0;
+	overflow: hidden;
+	background-color: #ffdb66;
+}
+
+#sub{
+	float: left;
+	border-right: 5px solid black;
+}
+
+#sub a{
+	display:block ;
+	color: blue;
+	text-align: center;
+	padding: 10px 65px;
+	text-decoration:none ;
+}
+
+#sub a:link {
+	color: none;
+}
+
+#sub a:hover {
+	background-color: #dab9ff;
+}
+
+#sub a:active {
+	background-color:#ff8f66 ;
+}
+
+.intro{
+	text-align: center;
+	padding: 5px 6px 15px 16px;
+	background-image: url("images/blue.png"); 
+	background-size: 300px 200px;
+}
+
+#myself{
+	margin: auto;
+	border: 2px solid black;
+	width: 600px;
+	background-image: url("images/yellow.png"); 
+	background-size: 663px 325px;
+	padding:30px;
+}
+
