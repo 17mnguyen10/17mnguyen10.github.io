@@ -36,3 +36,19 @@ body{
 #sub a:active {
 	background-color:#ff8f66 ;
 }
+
+#scratch{
+	background-image:  url("images/yellow.png");
+	width: 170px;
+}
+
+#reflection{
+		background-image:  url("images/yellow1.jpg");	
+		width:500px;
+		font-weight: bold
+}
+
+#Portfolio{
+	background-image:  url("images/blue.png");	
+	width:300px;
+}
